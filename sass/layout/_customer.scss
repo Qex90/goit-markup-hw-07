@@ -1,7 +1,7 @@
 .customer-icons {
     display: inline-flex;
 }
-.customer-icons-item {
+.customer-icons__item {
     border: 1px solid #AFB1B8;
     border-radius: 4%;
     height: 92px;
@@ -26,7 +26,7 @@
         }
 }
 
-.customer-icons-svg {
+.customer-icons__svg {
     width: 106px;
     height: 60px;
     fill: inherit;

@@ -1,11 +1,11 @@
 .company-values {
     display: none;
 }
-.feauters-list {
+.feauters__list {
     display: flex;
     flex-wrap: wrap;
 }
-.feauters-item {
+.feauters__item {
     width: 270px;
 
     &:not(:last-child) {
@@ -15,7 +15,7 @@
 
 .feauters {
     padding-top: 94px;
-    .paragraph-header {
+    .features__header {
         font-size: 14px;
         font-weight: 700;
         line-height: 16px;
@@ -24,7 +24,7 @@
         text-transform: uppercase;
         margin-bottom: 10px;
     }
-    .paragraph-content {
+    .features__content {
         color: var(--primary-text-color);
         font-size: 14px;
         font-weight: 400;
@@ -34,7 +34,7 @@
     }
 }
 
-.features-box__color {
+.features__box__color {
     height: 120px;
     margin-bottom: 30px;
     background-color: #F5F4FA;

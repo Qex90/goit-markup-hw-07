@@ -9,7 +9,7 @@
     }
 }
 
-.nav-bar {
+.site-bar {
     display: flex;
     align-items: center;
 }
@@ -33,11 +33,11 @@
     color: var(--primary-text-color);
 }
 
-.contact-item + .contact-item {
+.contact__item + .contact__item {
     margin-left: 50px;
 }
 
-.contact-icon {
+.contact__icon {
     margin-right: 10px;
     fill: currentColor;
 }
