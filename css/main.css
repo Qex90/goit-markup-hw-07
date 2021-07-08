@@ -743,7 +743,7 @@ img {
   margin: 0px 0px 4px 0px;
 }
 
-.flex__container .info-contant {
+.flex__container .flex__contant {
   color: var(--primary-text-color);
   font-size: 16px;
   font-weight: 400;
